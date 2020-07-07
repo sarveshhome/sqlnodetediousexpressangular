@@ -1,7 +1,11 @@
 # sqlnodetediousexpressangular
 sql + node+ tedious + express + angular
 
+![Result](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/Output.bmp)
 
+![employees json](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/employeejson.bmp)
+
+[Database url](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/Products.sql)
 
 Run => cmd => ipconfig => IP 
 
@@ -16,10 +20,4 @@ https://stackoverflow.com/questions/39883243/how-to-make-json-from-sql-query-in-
 https://github.com/tediousjs/tedious/issues/931
 
 
-![Result](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/Output.bmp)
-
-![employees json](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/employeejson.bmp)
-
-
-[Database url](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/Products.sql)
 
