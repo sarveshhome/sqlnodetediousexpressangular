@@ -21,7 +21,9 @@ export class EmpService {
   constructor(private http: HttpClient) { }
    getEmployees():Observable<any>{
      return this.http.get<any>(this.apiurl,this.httpOptions).pipe(
-       tap(data=>{console.log(data)}),
+       tap(data=>{
+         //console.info(data)
+        }),
        catchError(this.handleError)
      )
    }
