@@ -1,11 +1,16 @@
 # sqlnodetediousexpressangular
 sql + node+ tedious + express + angular
 
+![Employee](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/employeewithdetailbutton.jpg)
+
+![EmployeeDetails](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/employeebyid.jpg)
+
 ![Result](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/Output.bmp)
 
 ![employees json](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/employeejson.bmp)
 
 [Database url](https://github.com/sarveshhome/sqlnodetediousexpressangular/blob/master/Products.sql)
+
 
 Run => cmd => ipconfig => IP 
 
