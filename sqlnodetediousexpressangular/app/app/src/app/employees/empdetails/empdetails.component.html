@@ -1,0 +1,23 @@
+<div class="container">
+<div style="margin-left: 60px;" class="row">
+    <h2 class="text-center">Details of Employee : {{empno}}</h2>
+</div>
+<div class="row">
+   <table class="table">
+     <thead>
+       <tr>
+         <th>Key</th>
+         <th>Value</th>
+
+       </tr>
+     </thead>
+     <tbody>
+       <tr *ngFor="let d of empDetailsData | keyvalue">
+         <td>{{d.key}}</td>
+         <td>{{d.value}}</td>
+       </tr>
+     </tbody>
+   </table>
+</div>
+</div>
+
