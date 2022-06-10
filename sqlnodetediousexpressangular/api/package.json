@@ -57,7 +57,7 @@
     "mocha": "^6.2.2",
     "nyc": "^14.1.1",
     "rimraf": "^3.0.0",
-    "semantic-release": "^17.0.1",
+    "semantic-release": "^19.0.3",
     "sinon": "^7.5.0",
     "typedoc": "^0.17.0-3",
     "typescript": "^3.8.3"
