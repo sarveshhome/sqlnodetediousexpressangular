@@ -18,7 +18,7 @@
     "mongoose": "^5.9.22",
     "tedious": "^8.3.0",
     "readable-stream": "^3.6.0",
-    "@azure/ms-rest-nodeauth": "2.0.2",
+    "@azure/ms-rest-nodeauth": "3.0.8",
     "@js-joda/core": "^2.0.0",
     "bl": "^3.0.0",
     "depd": "^2.0.0",
